@@ -10,6 +10,7 @@ This is a header-only library that depends on Qt5. All you have to do is include
 
 ## Usage examples
 
+```
 #include <QCoreApplication>
 #include "natsclient.h"
 
@@ -30,3 +31,4 @@ int main(int argc, char *argv[])
     });
     return a.exec();
 }
+```
