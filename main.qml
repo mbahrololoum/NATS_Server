@@ -8,7 +8,7 @@ Window {
     width: 640
     height: 480
     visible: true
-    title: qsTr("Hello World")
+    title: qsTr("NATS Server example")
 
     ClassNats {
         id: classNats
